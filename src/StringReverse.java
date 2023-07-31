@@ -14,6 +14,9 @@ public class StringReverse {
 	 System.out.println("Reverse String is : ");
 	 System.out.println("1. First Changes");
 	 System.out.println("2.second change ");
+	 System.out.println("3.Third change ");
+	 System.out.println("4.Fourth change ");
+	 System.out.println("5.Fifth change ");
 	 for(int i=a.length-1;i>=0;i-- ) {
 		 
 		 System.out.print(a[i]);
