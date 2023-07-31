@@ -11,8 +11,11 @@ public class StringReverse {
 	
 	String s="Vaishali";
 	 char a[]= s.toCharArray();
+	 System.out.println("Reverse String is : ");
 	 for(int i=a.length-1;i>=0;i-- ) {
+		 
 		 System.out.print(a[i]);
+		 
 	 }
 	}
 }
